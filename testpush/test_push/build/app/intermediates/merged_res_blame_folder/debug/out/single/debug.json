@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-mdpi_app_icon1.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-mdpi/app_icon1.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-ldpi_app_icon1_background.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-ldpi/app_icon1_background.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-xhdpi_app_icon3.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/drawable-xhdpi/app_icon3.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon1_round.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-xxhdpi/app_icon1_round.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon1.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-xxhdpi/app_icon1.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_app_icon1_background.xml.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-anydpi-v21/app_icon1_background.xml"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-xxxhdpi_app_icon3.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-xxxhdpi/app_icon3.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-anydpi-v26_app_icon1_round.xml.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-anydpi-v26/app_icon1_round.xml"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon1.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-xxxhdpi/app_icon1.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-anydpi-v24_app_icon1_foreground.xml.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-anydpi-v24/app_icon1_foreground.xml"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-hdpi_app_icon1.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-hdpi/app_icon1.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-xxhdpi_app_icon1_background.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-xxhdpi/app_icon1_background.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-mdpi_app_icon3.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/drawable-mdpi/app_icon3.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-xhdpi_app_icon1_round.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-xhdpi/app_icon1_round.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-anydpi-v26_app_icon1.xml.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-anydpi-v26/app_icon1.xml"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-xhdpi_app_icon1_background.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-xhdpi/app_icon1_background.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-mdpi_app_icon1_background.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-mdpi/app_icon1_background.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-hdpi_app_icon1_round.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-hdpi/app_icon1_round.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-hdpi_app_icon1_background.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-hdpi/app_icon1_background.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-xhdpi_app_icon1.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-xhdpi/app_icon1.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_app_icon3.xml.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-anydpi-v21/app_icon3.xml"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-xxhdpi_app_icon3.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/drawable-xxhdpi/app_icon3.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-mdpi_app_icon1_round.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-mdpi/app_icon1_round.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon1_round.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/mipmap-xxxhdpi/app_icon1_round.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable_app_icon.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/drawable/app_icon.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-hdpi_app_icon3.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/android/app/src/main/res/drawable-hdpi/app_icon3.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-ldpi_app_icon3.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-ldpi/app_icon3.png"
+    },
+    {
+        "merged": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/intermediates/res/merged/debug/drawable-xxxhdpi_app_icon1_background.png.flat",
+        "source": "/Users/qayyumcheri/Dev/development/testpush/test_push/build/app/generated/res/pngs/debug/drawable-xxxhdpi/app_icon1_background.png"
+    }
+]
